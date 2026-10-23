@@ -1,0 +1,8 @@
+{
+  "name": "Remix AICTE Application Validation \u0026 Document Authentication Portal",
+  "description": "Institutional application validation, automated document consistency checks, simulated OCR extraction, and regulatory compliance scrutiny.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
